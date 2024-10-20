@@ -1,1 +1,0 @@
- data-intensive-applications-summary
